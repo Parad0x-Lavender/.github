@@ -1,4 +1,4 @@
 ## Releases for Lavender シ
 
-> ### LineageOS 19.1
+> ### LineageOS 20.0
 * [1] [Initial Release]
